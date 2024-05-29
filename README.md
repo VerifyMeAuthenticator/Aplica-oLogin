@@ -23,4 +23,4 @@ Execução
 - Contribuição
 - Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorias, correções de bugs ou novas funcionalidades.
  
-Este projeto foi desenvolvido por Ellen Sampaio
+Este projeto foi desenvolvido por Ellen Sampaio e Sarah Evellyn
