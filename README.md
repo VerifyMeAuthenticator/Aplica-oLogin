@@ -20,7 +20,5 @@ Execução
 - Clone ou faça o download deste repositório para o seu ambiente de desenvolvimento.
 - Abra o projeto em sua IDE Java.
 - Execute a aplicação a partir da classe principal Loginview.java.
-- Contribuição
-- Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorias, correções de bugs ou novas funcionalidades.
- 
+
 Este projeto foi desenvolvido por Ellen Sampaio e Sarah Evellyn
