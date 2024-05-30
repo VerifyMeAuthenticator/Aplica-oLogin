@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package br.com.trabalho.loginform.view;
-
 /**
  *
  * @author Sarah Nogueira
@@ -99,13 +98,14 @@ public class Cadastroview extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-        /* Create and display the form */
+        /* Criando o form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Cadastroview().setVisible(true);
             }
         });
     }
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButtonTeladecadastro;
